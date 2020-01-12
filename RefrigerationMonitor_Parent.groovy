@@ -1,5 +1,5 @@
 /**
- *  Hubitat Import URL: TODO
+ *  Hubitat Import URL: https://raw.githubusercontent.com/JonoPorter/RefrigerationMonitor/master/RefrigerationMonitor_Parent.groovy
  */
 
 /**
